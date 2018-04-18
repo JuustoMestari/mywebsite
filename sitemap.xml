@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://david.davenne.be/blog/welcome/</loc>
+    <lastmod>2018-04-18T18:08:21+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david.davenne.be/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://david.davenne.be/blog/</loc>
+    <lastmod>2018-04-18T18:08:21+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://david.davenne.be/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://david.davenne.be/</loc>
+    <lastmod>2018-04-18T18:08:21+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://david.davenne.be/tags/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://david.davenne.be/categories/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://david.davenne.be/tags/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

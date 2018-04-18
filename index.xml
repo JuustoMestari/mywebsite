@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Davenne</title>
+    <link>https://david.davenne.be/</link>
+    <description>Recent content on David Davenne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Apr 2018 18:08:21 +0300</lastBuildDate>
+    
+	<atom:link href="https://david.davenne.be/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://david.davenne.be/blog/welcome/</link>
+      <pubDate>Wed, 18 Apr 2018 18:08:21 +0300</pubDate>
+      
+      <guid>https://david.davenne.be/blog/welcome/</guid>
+      <description>Welcome to my new website I decided to create a new website , a bit more advanced than the previous one. I always wanted to learn about static sites generator so I decided to go with Hugo ! Hopefully I can write some blog posts from time to time&amp;hellip; See you around !</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://david.davenne.be/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://david.davenne.be/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
