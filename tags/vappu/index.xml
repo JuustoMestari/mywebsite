@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vappu on David Davenne</title>
+    <link>https://david.davenne.be/tags/vappu/</link>
+    <description>Recent content in Vappu on David Davenne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 May 2018 12:00:00 +0300</lastBuildDate>
+    
+	<atom:link href="https://david.davenne.be/tags/vappu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hyvää Vappua !</title>
+      <link>https://david.davenne.be/blog/vappu/</link>
+      <pubDate>Tue, 01 May 2018 12:00:00 +0300</pubDate>
+      
+      <guid>https://david.davenne.be/blog/vappu/</guid>
+      <description>Hyvää Vappua ! Today is first of May and is a popular holiday in Finland, specially among engineering students who gather in major cities center to party. People usually eat munkki and drink sima.
+That is all :D</description>
+    </item>
+    
+  </channel>
+</rss>
