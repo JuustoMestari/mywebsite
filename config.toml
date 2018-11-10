@@ -1,0 +1,18 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "david.davenne.be"
+theme = "nix"
+
+[params]
+  Name = "David Davenne"
+  HeaderUsername = "david"
+  HeaderHostname = "davenne.be"
+  About = "I am a software developer from Belgium but I have been living in Finland for almost a decade. I like playing around with new technologies and trying new things out. In my free time I work on personal electronics projects."
+  ProfilePicture = "https://david.davenne.be/img/profile.png"
+  GithubID = "JuustoMestari"
+  TwitterID = "DavidDavenne"
+  LinkedInID = "daviddavenne"
+  Hackaday = "daviddavenne"
+  Email = "david@davenne.be"
+  GoogleAnalytics = "UA-43252792-3"
+  CvURL = "https://david.davenne.be/files/CV_Davenne_David.pdf"
